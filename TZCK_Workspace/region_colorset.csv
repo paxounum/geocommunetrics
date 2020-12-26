@@ -1,0 +1,11 @@
+RGB Hex;RGB Hex3;HSL;RGB;HTML Keyword;Region;Prefix
+#7e6aa5;#87a;hsl(260,24,53);rgb(126,106,165);lightslategray;Northeast;0
+#256e99;#27a;hsl(202,61,37);rgb(37,110,153);steelblue;North ;1
+#38a6a5;#4aa;hsl(179,49,43);rgb(56,166,165);lightseagreen;Southeast;2
+#0f8554;#185;hsl(155,79,29);rgb(15,133,84);seagreen;South;3
+#73af48;#7b5;hsl(94,41,48);rgb(115,175,72);olivedrab;Great_Lakes;4
+#edad08;#fb1;hsl(43,93,48);rgb(237,173,8);orange;Middle_North;5
+#e17c05;#e80;hsl(32,95,45);rgb(225,124,5);darkorange;Middle_Center;6
+#cc503e;#d54;hsl(7,58,52);rgb(204,80,62);indianred;Middle_South;7
+#94346e;#937;hsl(323,48,39);rgb(148,52,110);purple;Southwest;8
+#6e3f6f;#747;hsl(298,27,34);rgb(110,63,111);dimgray;West_Coast;9
